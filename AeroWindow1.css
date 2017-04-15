@@ -197,46 +197,46 @@ Buttons Regular Window
   height: 19px;
   display: block;
   float: left;
-  background: url(https://sites.google.com/site/hostvov/WindowsAeroStyle/btn-min.png);
+  background: url(https://sites.google.com/site/hostvov/btn-min.png);
 }      
 .AeroWindow .buttons .win-max-btn {
   width: 26px;
   height: 19px;
   display: block;
   float: left;
-  background: url(https://sites.google.com/site/hostvov/WindowsAeroStyle/btn-max.png);
+  background: url(https://sites.google.com/site/hostvov/btn-max.png);
 }      
 .AeroWindow .buttons .win-reg-btn {
   width: 26px;
   height: 19px;
   display: block;
   float: left;
-  background: url(https://sites.google.com/site/hostvov/WindowsAeroStyle/btn-reg.png);
+  background: url(https://sites.google.com/site/hostvov/btn-reg.png);
 }      
 .AeroWindow .buttons .win-close-btn {
   width: 46px;
   height: 19px;
   float: left;
   display: block;
-  background: url(https://sites.google.com/site/hostvov/WindowsAeroStyle/btn-close.png);
+  background: url(https://sites.google.com/site/hostvov/btn-close.png);
 }  
 .AeroWindow .buttons .win-btn-leftedge {
   width: 2px;
   height: 19px;
   float: left;
-  background: url(https://sites.google.com/site/hostvov/WindowsAeroStyle/left.png);
+  background: url(https://sites.google.com/site/hostvov/left.png);
 }            
 .AeroWindow .buttons .win-btn-rightedge {
   width: 2px;
   height: 19px;
   float: left;
-  background: url(https://sites.google.com/site/hostvov/WindowsAeroStyle/right.png);
+  background: url(https://sites.google.com/site/hostvov/right.png);
 }            
 .AeroWindow .buttons .win-btn-spacer {
   width: 1px;
   height: 19px;
   float: left;
-  background: url(https://sites.google.com/site/hostvov/WindowsAeroStyle/spacer.png);
+  background: url(https://sites.google.com/site/hostvov/spacer.png);
 }            
 .AeroWindow .buttons .WinBtnSet {
   float: left;
@@ -246,16 +246,16 @@ Buttons Regular Window
 Buttons Active Window
 -----------------------------------------------------------------------------*/
 .AeroWindow.active .buttons .win-min-btn {
-  background: url(https://sites.google.com/site/hostvov/WindowsAeroStyle/btn-min.png) 0px 38px;
+  background: url(https://sites.google.com/site/hostvov/btn-min.png) 0px 38px;
 }      
 .AeroWindow.active .buttons .win-max-btn {
-  background: url(https://sites.google.com/site/hostvov/WindowsAeroStyle/btn-max.png) 0px 38px;
+  background: url(https://sites.google.com/site/hostvov/btn-max.png) 0px 38px;
 }      
 .AeroWindow.active .buttons .win-reg-btn {
-  background: url(https://sites.google.com/site/hostvov/WindowsAeroStyle/btn-reg.png) 0px 38px;
+  background: url(https://sites.google.com/site/hostvov/btn-reg.png) 0px 38px;
 }      
 .AeroWindow.active .buttons .win-close-btn {
-  background: url(https://sites.google.com/site/hostvov/WindowsAeroStyle/btn-close.png) 0px 38px;
+  background: url(https://sites.google.com/site/hostvov/btn-close.png) 0px 38px;
 }            
 
 /*-----------------------------------------------------------------------------
@@ -315,7 +315,7 @@ DEMO CONTENT
   position: absolute; 
   left: 10px; 
   top: 50px; 
-  background: url(https://sites.google.com/site/hostvov/WindowsAeroStyle/empty.gif);
+  background: url(https://sites.google.com/site/hostvov/empty.gif);
   z-index: 0;
 }
 .ui-state-disabled, .ui-widget-content .ui-state-disabled, .ui-widget-header .ui-state-disabled {
